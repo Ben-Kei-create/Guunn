@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/SettingScene.unity
+    guid: 7b63996e43df7454d95fa00e0c43feba
+  - enabled: 1
+    path: Assets/Scenes/LoadScene.unity
+    guid: 2b3d802eea4e14166ba41af96b9752eb
+  - enabled: 1
+    path: Assets/Scenes/Chap1/Chapter1Scene.unity
+    guid: c16738bba94a643cea9b13ccaed7b499
+  - enabled: 1
+    path: Assets/Scenes/Chap1/Shop/AkagiVi_DiseShopScene.unity
+    guid: 00987ecc5f38c45e297270cdc4568b9d
+  - enabled: 1
+    path: Assets/Scenes/Chap1/Shop/AkagiVi_EnterVilledgeScene.unity
+    guid: 4151918091112494791eae0b5ec858ea
+  - enabled: 1
+    path: Assets/Scenes/Chap1/Shop/AkagiVi_InnScene.unity
+    guid: 5ece6252e194f4ae7b9983ff61fe9218
+  - enabled: 1
+    path: Assets/Scenes/Chap1/Shop/AkagiVi_SelectScene.unity
+    guid: 2c70b0a692fab4737b87bb9e6797158d
+  - enabled: 1
+    path: Assets/Scenes/Chapter2Scene.unity
+    guid: 3d78a139b0bb84aeaa5a85982caa8166
+  - enabled: 1
+    path: Assets/Scenes/Chapter3Scene.unity
+    guid: 6dcf066f4da9b4fcaa5fe911fb7264fc
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
